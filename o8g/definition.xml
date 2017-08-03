@@ -10,7 +10,7 @@
     iconurl="https://raw.github.com/BeastEG/Tempo-on-OCTGN/master/Afterimage.jpg"
     octgnVersion="3.1.240.0"
     scriptVersion="3.1.0.2"
-    markersize="25"
+    markersize="16"
     >
     <scripts>
       <script src="Scripts/actions.py" />
