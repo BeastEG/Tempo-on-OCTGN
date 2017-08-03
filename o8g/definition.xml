@@ -7,7 +7,7 @@
     setsurl="http://www.octgn.net" 
 	gameurl="http://www.octgn.net"
     authors="BeastEG"
-    iconurl="https://raw.github.com/kellyelton/Standard-Playing-Cards-Octgn/master/src/images/icon.jpg"
+    iconurl="https://raw.github.com/BeastEG/Tempo-on-OCTGN/master/Afterimage.jpg"
     octgnVersion="3.1.240.0"
     scriptVersion="3.1.0.2"
     markersize="25"
